@@ -1,4 +1,4 @@
-#Keylogger en C para Linux
+# Keylogger en C para Linux
 
 ## Hecho por: Mario Iván Díaz Robledo
 
